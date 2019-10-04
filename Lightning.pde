@@ -19,7 +19,7 @@ fill(#82FF0C);
    
     strokeWeight(3);
     
-    stroke(0,255,0);
+    stroke((int)(Math.random()*255),(int)(Math.random()*255),(int)(Math.random()*255));
 
   }
   int startX = 250;
